@@ -212,14 +212,14 @@ This project leverages Generative AI in several ways:
 ## Demo
 
 ### Java Modernization Server Demo - Using Claude Code CLI
-[![Java Modernization with Claude Code CLI](demos/java-tool-claude-cli.mp4)](demos/java-tool-claude-cli.mp4)
+[![Java Modernization with Claude Code CLI](https://img.youtube.com/vi/NM3pi19Yv18/maxresdefault.jpg)](https://www.youtube.com/watch?v=NM3pi19Yv18 "Click to Watch!")
 - Demonstration of code analysis and modernization workflow
 - Showcase of real-time pattern detection and recommendations
 - Example of modernizing legacy Java code patterns
 - Integration with Claude Code CLI for seamless development
 
 ### MongoDB Adoption Server Demo - Using Claude Desktop
-[![MongoDB Adoption with Claude Desktop](demos/mongo-tool-calude-desktop.mp4)](demos/mongo-tool-calude-desktop.mp4)
+[![MongoDB Adoption with Claude Desktop](https://img.youtube.com/vi/D1mQxdkgqNk/maxresdefault.jpg)](https://www.youtube.com/watch?v=D1mQxdkgqNk "Click to Watch!")
 - Database pattern analysis and migration strategy generation
 - Documentation search and recommendations
 - Adoption plan creation and implementation
